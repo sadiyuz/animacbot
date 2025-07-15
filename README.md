@@ -1,2 +1,7 @@
 # animacbot
-profisionel anime telegram bot open source in php
+Mukammal anime bot kodi.
+
+```bash
+git clone https://github.com/sadiyuz/animacbot.git
+cd animacbot
+```
