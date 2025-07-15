@@ -11,8 +11,8 @@ date_Default_timezone_set('Asia/Tashkent');
 * @link https://t.me/sadiyuz
 */
 
-define('BOT_TOKEN',"7590608154:AAF54GauYbQ832v7bTu3FQbjpws5rjHfYmk");
-$admin = "6914992231";
+define('BOT_TOKEN',"BOT_TOKEN_QOYASIZLAR");
+$admin = "ADMIN_ID";
 $owners = array($admin);
 $bot = bot('getme',['bot'])->result->username;
 $soat = date('H:i');
